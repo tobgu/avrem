@@ -1,6 +1,7 @@
 # avrem
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to work as an emulator of an AVR processor. Should make it possible to
+run automated tests on code compiled for the AVR.
 
 ## Usage
 
