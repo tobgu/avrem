@@ -6,4 +6,5 @@
   :dependencies [[org.clojure/clojure "1.4.0"]
                  [midje "1.4.0"]
                  [org.clojure/math.numeric-tower "0.0.1"]]
+  :dev-dependencies [[lein-midje "1.0.10"]]
   :profiles {:dev {:plugins [[lein-midje "2.0.0-SNAPSHOT"]]}})
